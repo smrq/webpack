@@ -20,7 +20,7 @@
     "tapable": "~0.2.3",
     "uglify-js": "~2.6.0",
     "watchpack": "^1.0.0",
-    "webpack-sources": "smrq/webpack-sources#webpack-2993",
+    "webpack-sources": "github:smrq/webpack-sources#80dbb5dddda46d5349336b72a8d69a7f5fe174b9",
     "yargs": "^3.31.0"
   },
   "license": "MIT",
